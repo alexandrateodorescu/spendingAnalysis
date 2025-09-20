@@ -1,10 +1,10 @@
 # Spending Analysis Project
 
-## Summary
+## ⭐︎ Summary
 
-This project contains a comprehensive analysis of personal spending patterns and financial data. The analysis includes categorization of transactions, monthly spending summaries, and data cleaning processes to provide insights into spending habits.
+This project contains a comprehensive analysis of spending patterns and financial data across an eight month period. The analysis includes categorization of transactions, monthly spending summaries, insights into saving habits, and a spending forecast.
 
-## Files Overview
+## ⎗ Files Overview
 
 - **`transactionHistory.csv`** - Raw transaction data containing all financial transactions
 - **`cleaned_spending.csv`** - Processed and cleaned transaction data ready for analysis
@@ -14,7 +14,7 @@ This project contains a comprehensive analysis of personal spending patterns and
 - **`category_breakdown`** - Detailed category analysis data
 - **`monthly_totals`** - Monthly spending breakdown data
 
-## Analysis Features
+## ✓ Analysis Features
 
 - Transaction categorization and grouping
 - Monthly spending trend analysis
@@ -25,12 +25,3 @@ This project contains a comprehensive analysis of personal spending patterns and
 ## Dashboard
 
 📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/spendingDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
-## Usage
-
-1. **Interactive Analysis**: Start with the Tableau dashboard for visual insights
-2. Review the Jupyter notebook (`spendinganalysis (1).ipynb`) for the complete analysis
-3. Check `cleaned_spending.csv` for processed transaction data
-4. Examine `category_breakdown.csv` and `monthly_totals.csv` for summary insights
-
-This project helps track and understand personal spending patterns for better financial planning and budgeting decisions.
