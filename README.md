@@ -1,10 +1,12 @@
 # Spending Analysis Project
 
-## ⭐︎ Summary
+## ⇢ Summary
 
-This project contains a comprehensive analysis of spending patterns and financial data across an eight month period. The analysis includes categorization of transactions, monthly spending summaries, insights into saving habits, and a spending forecast.
+This project contains a comprehensive analysis of spending patterns and financial data across an eight month period. 
 
-## ⎗ Files Overview
+The analysis includes categorization of transactions, monthly spending summaries, insights into saving habits, and a spending forecast.
+
+## ⇢ Files Overview
 
 - **`transactionHistory.csv`** - Raw transaction data containing all financial transactions
 - **`cleaned_spending.csv`** - Processed and cleaned transaction data ready for analysis
@@ -14,14 +16,15 @@ This project contains a comprehensive analysis of spending patterns and financia
 - **`category_breakdown`** - Detailed category analysis data
 - **`monthly_totals`** - Monthly spending breakdown data
 
-## ✓ Analysis Features
+## ⇢ Analysis Features
 
+- Data cleaning and preprocessing 
 - Transaction categorization and grouping
 - Monthly spending trend analysis
 - Category-based spending insights
-- Data cleaning and preprocessing
 - Financial data visualization
 
-## Dashboard
+## ⇢ Dashboard
 
 📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/spendingDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
