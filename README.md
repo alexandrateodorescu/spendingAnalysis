@@ -6,6 +6,8 @@ This project contains a comprehensive analysis of spending patterns and financia
 
 The analysis includes categorization of transactions, monthly spending summaries, insights into saving habits, and a spending forecast.
 
+**Privacy note:** All financial data in this repository is anonymized and synthetic. No real personal financial information is included.
+
 ## ⇢ Files Overview
 
 - **`cleaned_spending.csv`** - Processed and cleaned transaction data ready for analysis
