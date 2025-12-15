@@ -1,1 +1,5 @@
 .DS_Store
+
+# Transaction history files (sensitive financial data)
+transactionHistory.csv
+transactionHistory.numbers

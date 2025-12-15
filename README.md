@@ -8,7 +8,6 @@ The analysis includes categorization of transactions, monthly spending summaries
 
 ## ⇢ Files Overview
 
-- **`transactionHistory.csv`** - Raw transaction data containing all financial transactions
 - **`cleaned_spending.csv`** - Processed and cleaned transaction data ready for analysis
 - **`spendinganalysis (1).ipynb`** - Jupyter notebook containing the analysis code and visualizations
 - **`category_breakdown.csv`** - Analysis results showing spending by category
